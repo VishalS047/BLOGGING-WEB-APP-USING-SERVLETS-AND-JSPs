@@ -1,0 +1,27 @@
+.btn_color
+{
+    background-color: #c8e6c9;
+}
+
+.button_color
+{
+    background-color: #e0e0e0;
+}
+.button_color :hover
+{
+    background-color: #2196f3;
+}
+
+.banner_background
+{
+    clip-path: polygon(30% 0%, 70% 0%, 100% 0, 100% 94%, 70% 100%, 25% 100%, 0 93%, 0 0);
+}
+
+.border_style
+{
+    border: 1px solid black;
+}
+.primary_color
+{
+    background-color: #ba68c8;
+}
